@@ -1,0 +1,1 @@
+Comic viewer with automatic image enhancement and smart scrolling/zooming
